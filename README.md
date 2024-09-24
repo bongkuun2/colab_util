@@ -1,7 +1,7 @@
 ## Google Colaboratory Utility
 
 - 개인적으로 자주 쓰는 함수들을 모아두었습니다. 
-- [Example notebook link](https://colab.research.google.com/drive/1kNj9YNe6dKJgcaAvJ4pwqTcBe5B9fLuM)를 참고해주세요.  
+- [Example notebook link]([https://colab.research.google.com/drive/1kNj9YNe6dKJgcaAvJ4pwqTcBe5B9fLuM](https://colab.research.google.com/drive/1657Iq4G6USIfFrn0FTCCWNqschbBTkPj?usp=sharing))를 참고해주세요.  
 
 ### Bigquery
 
